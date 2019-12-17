@@ -1,0 +1,32 @@
+{
+    "devdata": {
+	"__COMMENT__": "See devdata.h to know something more about variables",
+	"vaisala": {
+	    "busevai": "1111",
+	    "vai": {
+		"P4340012": 3,
+		"P4340009": 2,
+		"P4340003": 1,
+		"P4340001": 0
+	    },
+	    "usb485x4pn": "USB-COM485 Plus4",
+	    "usb485x4sn": "FTYW6YAZ"
+	},
+	"bronkhorst": {
+	    "busebro": "1111",
+	    "bro": {
+		"M17212362C": 3,
+		"M17212362B": 2,
+	        "M17212362A": 1,
+		"M16216395A": 0
+	    },
+	    "usb232x4pn": "USB-COM232 Plus4",
+	    "usb232x4sn": "FT0DXL9A"
+	},
+	"adam4019": {
+	    "busegem": "111111",
+	    "usb485cbpn": "USB-RS485 Cable",
+	    "usb485cbsn": "FTU7C2M0"
+	}
+    }
+}
